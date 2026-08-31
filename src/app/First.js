@@ -52,7 +52,7 @@ export default function First() {
             description="Beautiful, user-centered designs that enhance usability and brand value."
           />
           <Home
-            image="Api&backend.png"
+            image="API&backend.png"
             title="API & Backend Development"
             description="Secure, robust and scalable backend solutions and API integrations."
           />
